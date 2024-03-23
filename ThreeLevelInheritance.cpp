@@ -67,7 +67,7 @@ class ArmoredTitan : public Shifters
 {
 private:
     bool armorPlates = true;   // броневые пластины
-    bool contArmPlates = true; // контроль броневыми пластинам
+    bool contArmPlates = true; // контроль броневыми пластинами
 };
 
 int main()
